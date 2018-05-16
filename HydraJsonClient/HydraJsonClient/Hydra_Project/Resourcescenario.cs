@@ -33,7 +33,7 @@ namespace HydraJsonClient.Hydra_Project
         public int resource_attr_id { get; set; }
         public int attr_id { get; set; }
         public string cr_date { get; set; }
-        public AttributeData value { get; set; }
+        public AttributeData dataset { get; set; }
 
     }
 }
